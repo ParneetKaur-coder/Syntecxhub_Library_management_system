@@ -1,27 +1,49 @@
 # Library Management System
 
-A Java command-line application to manage books in a library.
+A simple Java Command Line Interface (CLI) application for managing library books. This project is developed using Object-Oriented Programming (OOP) concepts and demonstrates book management, file handling, input validation, and exception handling.
 
 ## Features
-- Add Book
-- Remove Book
-- Search Book
-- Display Books
-- File Handling
-- Input Validation
-- Exception Handling
- 
+
+* Add Book
+* Remove Book
+* Search Book
+* Display Books
+* File Handling
+* Input Validation
+* Exception Handling
+
 ## Technologies Used
-- Java
-- Object-Oriented Programming (OOP)
-- File Handling
+
+* Java
+* Object-Oriented Programming (OOP)
+* File Handling
+
+## Project Structure
+
+```text
+LibraryManagementSystem/
+│
+├── src/
+│   ├── Library.java
+│   ├── Book.java
+│   └── Main.java
+│
+├── README.md
+└── .gitignore
+```
 
 ## How to Run
-1. Clone the repository.
-2. Compile the Java files:
-   javac *.java
-3. Run the program:
-   java LibraryManagement
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/LibraryManagementSystem.git
+   ```
+
+2. Open the project in IntelliJ IDEA, Eclipse, or VS Code.
+
+3. Compile and run `Main.java`.
 
 ## Author
-Parneet Kaur
+
+**Parneet Kaur**

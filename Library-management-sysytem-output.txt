@@ -1,0 +1,60 @@
+                LIBRARY MANAGEMENT SYSTEM
+                     OUTPUT
+
+──────────────────────────────────────────────────
+
+1. PROGRAM START
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+
+1. Add Book
+2. Remove Book
+3. Search Book
+4. Display Books
+5. Exit
+
+Enter your choice: 1
+
+──────────────────────────────────────────────────
+
+2. ADD BOOK
+
+Enter Book ID: 101
+Enter Title: Java Programming
+Enter Author: James Gosling
+
+Book Added Successfully.
+
+──────────────────────────────────────────────────
+
+3. DISPLAY BOOKS
+
+Book ID : 101
+Title   : Java Programming
+Author  : James Gosling
+
+──────────────────────────────────────────────────
+
+4. SEARCH BOOK
+
+Enter Book ID: 101
+
+Book Found Successfully!
+
+Book ID : 101
+Title   : Java Programming
+Author  : James Gosling
+
+──────────────────────────────────────────────────
+
+5. REMOVE BOOK
+
+Enter Book ID: 101
+
+Book Removed Successfully.
+
+──────────────────────────────────────────────────
+
+6. EXIT
+
+Thank You for using Library Management System.

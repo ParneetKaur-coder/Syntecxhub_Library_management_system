@@ -37,7 +37,7 @@ LibraryManagementSystem/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/LibraryManagementSystem.git
+   git@github.com:ParneetKaur-coder/Syntecxhub_Library_management_system.git
    ```
 
 2. Open the project in IntelliJ IDEA, Eclipse, or VS Code.
